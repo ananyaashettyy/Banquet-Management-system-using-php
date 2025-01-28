@@ -15,6 +15,7 @@ To run the Online Banquet Booking System Project using PHP and MySQL
 7. Run the script http://localhost/obbs
 
 Admin Credential
+
 Username: admin
 
 Password: Test@123
